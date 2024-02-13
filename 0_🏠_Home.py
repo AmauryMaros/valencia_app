@@ -8,7 +8,7 @@ st.set_page_config(
 st.sidebar.subheader("Contact")
 st.sidebar.write("mfrance@som.umaryland.edu")
 
-st.image("medias/valencia_Logo.png")
+st.image("medias/valencia_logo.png")
 
 st.divider()
 
